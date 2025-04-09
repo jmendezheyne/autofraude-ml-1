@@ -15,6 +15,29 @@ Proyecto capstone de Machine Learning orientado a la detección de fraude. Este 
 Desarrollar un sistema capaz de detectar patrones de comportamiento asociados a fraude, utilizando modelos de machine learning entrenados con datos históricos de comportamiento de clientes.
 
 ---
+## 🧱 Estructura de la presentación
+
+```bash
+presentacion-capstone/
+│
+├── explicar el problema        # diferencia fraude vs autofraude, lamina 2 del ppt 3, impacto en la industria. @esteban
+├── objetivos/                  # 
+│   ├── obj1/                   # objetivo original de detección de autofraude, (obj.2 - presentación final) 
+│                               # ------                               
+│                               # Predecir transacciones de auto-fraude en reclamos de fraude mediante un modelo de 
+│                               # machine learning, complementado con la identificación de patrones de comportamiento
+│                               # relevantes y la optimización del punto de corte, con el fin de reducir los casos no 
+│                               # detectados y maximizar el beneficio esperado.
+│   ├── obj2/                   # Agregar lo q planteamos de NLP -> transformarlo en un objetivo [80%-90%] -> @jaime
+│   └── obj3/                   # Modelo multivariable | Segmentación | CLV y decidir demanda o no? (monto$) -> 2da capa
+| 
+├── alcances/                   # lamina 24 (oculta en canvas) - trabajar en lamina de alcances del proyecto @ulises 
+├── metodologia/                # consolidar lamina 8 ppt 3, con lamina 4. @ulises + @esteban
+├── revision-bibliografica/     # (stand-by)
+├── desarrollo-metodologico/    # 
+│   ├── eda/                    # @esteban
+│   ├── ingenieria-atributos/   # @jaime
+│   ├── analisis-sens-costos/   # lamina 14 p3, automatizar @ulises
 
 ## 🧱 Estructura del proyecto
 
