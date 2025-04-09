@@ -38,6 +38,7 @@ presentacion-capstone/
 │   ├── ingenieria-atributos/   # @jaime
 │   ├── analisis-sens-costos/   # lamina 14 p3, automatizar @ulises
 
+---
 ## 🧱 Estructura del proyecto
 
 ```bash
