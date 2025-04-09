@@ -30,7 +30,6 @@ presentacion-capstone/
 │                               # detectados y maximizar el beneficio esperado.
 │   ├── obj2/                   # Agregar lo q planteamos de NLP -> transformarlo en un objetivo [80%-90%] -> @jaime
 │   └── obj3/                   # Modelo multivariable | Segmentación | CLV y decidir demanda o no? (monto$) -> 2da capa
-| 
 ├── alcances/                   # lamina 24 (oculta en canvas) - trabajar en lamina de alcances del proyecto @ulises 
 ├── metodologia/                # consolidar lamina 8 ppt 3, con lamina 4. @ulises + @esteban
 ├── revision-bibliografica/     # (stand-by)
